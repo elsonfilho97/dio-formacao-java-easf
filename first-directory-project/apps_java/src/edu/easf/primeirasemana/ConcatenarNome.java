@@ -1,4 +1,4 @@
-public class ConcatenaNome {
+public class ConcatenarNome {
 
 public static void main (String[] args) {
 
