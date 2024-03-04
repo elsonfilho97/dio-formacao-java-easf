@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "apps_java/src/edu.easf.primeirasemana",
         "app2/src",
-        "apps_java/src/edu.easf.primeirasemana"
+        "apps_java/src/edu/easf/primeirasemana"
     ]
 }
