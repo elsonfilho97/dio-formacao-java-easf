@@ -1,5 +1,5 @@
 public class BoletimEstudantil {
-	public static void main(String[] args) {
+	public static void main (String[] args) {
 		int mediaFinal = 5;
         
 		if (mediaFinal < 6)
