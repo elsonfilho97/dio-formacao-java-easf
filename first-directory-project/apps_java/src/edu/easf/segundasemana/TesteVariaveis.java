@@ -2,7 +2,11 @@ public class TesteVariaveis {
    
 public static void main (String[] args) {
 		
-		final int NUMERO  = 5;
+		int NUMERO  = 5;
+
+		NUMERO = - NUMERO;
+
+		NUMERO = - NUMERO;
 
 		System.out.print(NUMERO);
 	}
